@@ -1,7 +1,7 @@
 import ProjectsCard from "../../components/projectsCard"
 import Force1 from "../../assets/force1.jpg"
 import Display from "../../assets/display.jpg"
-import Perfume from "../../assets/perfume.jpg"
+import CerealHero from "../../assets/cerealHero.jpg"
 // import Fragrance from "../../assets/fragrance.jpg"
 
 
@@ -44,10 +44,10 @@ const Projects = () => {
           projectLink={"https://rtdongullo.github.io/Porli-Sara/"}/>
 
         <ProjectsCard
-          projectImage={Perfume}
+          projectImage={CerealHero}
           projectNumber={"03"}
-          projectTitle={"Purmish"} 
-          projectLink={"https://rtdongullo.github.io/Sneaker-Ville/"}/>
+          projectTitle={"SanDan96"} 
+          projectLink={"https://sandradankwa.netlify.app/"}/>
       </div>
 
     </div>

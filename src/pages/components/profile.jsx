@@ -48,12 +48,14 @@ const Profile = () => {
               <span className="h-0.5 w-20 bg-black absolute right-48 bottom-4"></span>
             </div>
 
-            <p>em ipsum, dolor sit amet consectetur adipisicing elit. <br />
-              Ratione optio molestias autem magni deserunt cum, totam et sequi, <br />
-              eligendi dolorem eaque accusantium dolores? <br />
-              Dignissimos impedit dolorum modi tempora earum quidem!<br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. <br />
-              Ratione optio molestias autem magni deserunt cum, totam et sequi, <br />
+            <p>A passionate Junior Front-End Developer with a strong foundation<br />
+               in HTML, CSS, and JavaScript. Committed to creating dynamic<br />
+               web interfaces. I am proficient in React and Tailwind CSS.<br />
+               Eager to learn and grow in the fast-paced world of web development.<br />
+               I am also committed to writing clean, efficient code and collaborating <br />
+               effectively with teams.<br />
+               Excited to contribute fresh ideas and innovative solutions <br />
+               to challenging projects. autem magni deserunt cum, totam et sequi, <br />
               eligendi dolorem eaque accusantium dolores? <br />
               Dignissimos impedit dolorum modi tempora earum quidem!<br />
               <br/>
